@@ -13,3 +13,7 @@ h1 {
   margin: 1em auto;
   text-align: center;
 }
+
+#introtext {
+ font-size: 25px; 
+}
